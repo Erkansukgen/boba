@@ -32,6 +32,6 @@
     "@nomiclabs/hardhat-waffle": "^2.0.1",
     "chalk": "^4.1.1",
     "dotenv": "^8.2.0",
-    "glob": "^7.1.6"
+    "glob": "^10.2.5"
   }
 }
