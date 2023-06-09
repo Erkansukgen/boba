@@ -43,6 +43,6 @@
     "ip": "^1.1.5",
     "request-promise-native": "^1.0.9",
     "web3": "^1.6.1",
-    "web3-eth-abi": "^1.6.1"
+    "web3-eth-abi": "^1.10.0"
   }
 }
