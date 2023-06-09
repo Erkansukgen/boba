@@ -28,7 +28,7 @@
   ],
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.4.0",
-    "rimraf": "^3.0.2",
+    "rimraf": "^5.0.1",
     "truffle": "^5.3.6"
   }
 }
