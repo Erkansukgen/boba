@@ -27,7 +27,7 @@
     "token"
   ],
   "dependencies": {
-    "@truffle/hdwallet-provider": "^1.4.0",
+    "@truffle/hdwallet-provider": "^2.1.11",
     "rimraf": "^3.0.2",
     "truffle": "^5.3.6"
   }
