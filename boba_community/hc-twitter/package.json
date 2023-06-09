@@ -39,7 +39,7 @@
   "dependencies": {
     "@uniswap/sdk": "^3.0.3",
     "base64-sol": "^1.1.0",
-    "dotenv": "^16.0.0",
+    "dotenv": "^16.0.3",
     "ip": "^1.1.5",
     "request-promise-native": "^1.0.9",
     "web3": "^1.6.1",
