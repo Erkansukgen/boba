@@ -4,7 +4,7 @@ ADD ./go/op_exporter /app/
 WORKDIR /app/
 RUN make build
 
-FROM alpine:latest
+FROM alpine:3.18.3
 RUN apk --no-cache add ca-certificates
 WORKDIR /root/
 COPY --from=builder /app/op_exporter /usr/local/bin/
