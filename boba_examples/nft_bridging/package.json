@@ -9,10 +9,10 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@eth-optimism/contracts": "^0.5.15",
+    "@eth-optimism/contracts": "^0.5.34",
     "chalk": "^2.4.1",
     "dotenv": "^16.0.0",
-    "ethers": "^5.5.4",
+    "ethers": "^6.0.0",
     "hardhat": "^2.12.5"
   }
 }
