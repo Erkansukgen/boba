@@ -38,7 +38,7 @@
     "@ethersproject/providers": "^5.7.0",
     "@ethersproject/transactions": "^5.7.0",
     "@ethersproject/web": "^5.7.0",
-    "ethers": "^5.5.4",
+    "ethers": "^6.0.0",
     "bufio": "^1.0.7",
     "chai": "^4.3.4"
   },
