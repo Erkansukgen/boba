@@ -32,11 +32,11 @@
     "url": "https://github.com/ethereum-optimism/optimism.git"
   },
   "dependencies": {
-    "@ethersproject/abstract-provider": "^5.7.0",
+    "@ethersproject/abstract-provider": "^5.8.0",
     "@ethersproject/bignumber": "^5.7.0",
     "@ethersproject/bytes": "^5.7.0",
-    "@ethersproject/providers": "^5.7.0",
-    "@ethersproject/transactions": "^5.7.0",
+    "@ethersproject/providers": "^5.8.0",
+    "@ethersproject/transactions": "^5.8.0",
     "@ethersproject/web": "^5.7.0",
     "ethers": "^5.5.4",
     "bufio": "^1.0.7",
