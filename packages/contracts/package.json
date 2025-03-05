@@ -63,9 +63,9 @@
   },
   "dependencies": {
     "@eth-optimism/core-utils": "0.8.1",
-    "@ethersproject/abstract-provider": "^5.5.0",
-    "@ethersproject/abstract-signer": "^5.5.0",
-    "@ethersproject/hardware-wallets": "^5.5.0"
+    "@ethersproject/abstract-provider": "^5.8.0",
+    "@ethersproject/abstract-signer": "^5.8.0",
+    "@ethersproject/hardware-wallets": "^5.8.0"
   },
   "devDependencies": {
     "@boba/turing-hybrid-compute": "^0.2.0",
