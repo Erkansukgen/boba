@@ -1,3 +1,4 @@
 certifi
 web3>=5.29.2
 eth_abi
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
