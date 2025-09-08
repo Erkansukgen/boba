@@ -64,7 +64,7 @@
     "redux-persist": "^6.0.0",
     "redux-thunk": "^2.3.0",
     "sass": "^1.62.1",
-    "serve": "^11.3.2",
+    "serve": "^14.2.5",
     "styled-components": "^5.3.10",
     "truncate-middle": "^1.0.6",
     "ts-md5": "^1.2.11",
