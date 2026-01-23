@@ -20,10 +20,10 @@
     "@nomiclabs/hardhat-waffle": "^2.0.1",
     "chai": "^4.3.4",
     "dotenv": "^9.0.0",
-    "ethereum-waffle": "^3.3.0",
-    "ethers": "^5.5.4",
-    "hardhat": "^2.12.5",
-    "lodash": "4.17.21",
+    "ethereum-waffle": "^4.0.8",
+    "ethers": "^6.0.0",
+    "hardhat": "^3.0.0",
+    "lodash": "4.17.23",
     "mysql": "^2.18.1",
     "node-fetch": "2.6.0"
   }
