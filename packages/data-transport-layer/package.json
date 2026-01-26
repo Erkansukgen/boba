@@ -57,7 +57,7 @@
     "express-prom-bundle": "^6.3.6",
     "level": "^6.0.1",
     "levelup": "^4.4.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "node-fetch": "^2.6.1"
   },
   "devDependencies": {
