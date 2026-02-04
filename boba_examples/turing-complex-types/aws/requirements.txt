@@ -1,3 +1,4 @@
 certifi
 web3>=5.29.2
 eth_abi
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
